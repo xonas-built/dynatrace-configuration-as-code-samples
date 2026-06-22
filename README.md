@@ -1,8 +1,25 @@
-# Dynatrace Configuration as Code Samples
+# ⚠️ This repository has moved
+
+The Dynatrace **Configuration as Code** samples are no longer maintained here.
+They now live in **[Dynatrace Community Examples & Solutions](https://github.com/Dynatrace/community-examples-and-solutions)**, under the **`configuration-as-code/`** folder — alongside dashboards, notebooks, apps, agents, and more.
+
+**What this means for you**
+- 👉 Find the latest samples here: **[configuration-as-code/](https://github.com/Dynatrace/community-examples-and-solutions/tree/main/configuration-as-code)**
+- ✍️ Submit new samples via the new repository, not this one.
+- 🔒 This repository is now **archived and read-only**. Existing links and clones still work, but it won't receive further updates.
+
+Thanks to everyone who contributed here — your samples have moved with us. 🙌
+
+
+
+-----------------------------------------------------------------------------------
+# OUTDATED 
+
+Dynatrace Configuration as Code Samples
 
 This repository collects sample projects for the Dynatrace Configuration as Code.
 
-## Getting Started with Dynatrace Configuration as Code
+### Getting Started with Dynatrace Configuration as Code
 
 To get started with Dynatrace Configuration as Code please see [the documentation](https://www.dynatrace.com/support/help/setup-and-configuration/monitoring-as-code).
 
@@ -10,10 +27,10 @@ To download the CLI, head over to the [dynatrace-configuration-as-code GitHub re
 
 If you're new to Monaco and want to learn more, check out the [Observability Clinic on Monaco 2.0](https://dt-url.net/monaco-observability-clinic).
 
-## License
+### License
 [Apache License v2.0](https://github.com/dynatrace-oss/dynatrace-monitoring-as-code/blob/main/LICENSE).
 
-## Terraform and Dynatrace Configuration as Code
+### Terraform and Dynatrace Configuration as Code
 
 While most of the samples in this repository can be used with our tool Monaco, we recommend using our [Dynatrace Terraform provider](https://github.com/dynatrace-oss/terraform-provider-dynatrace), especially when you're already invested in using Terraform for Infrastructure as Code.
 
