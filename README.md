@@ -1,7 +1,7 @@
 # ⚠️ This repository has moved
 
 The Dynatrace **Configuration as Code** samples are no longer maintained here.
-They now live in **[Dynatrace Community Examples & Solutions](https://github.com/Dynatrace/community-examples-and-solutions)**, under the **`configuration-as-code/`** folder — alongside dashboards, notebooks, apps, agents, and more.
+They now live in **[Dynatrace Community Examples & Solutions](https://github.com/Dynatrace/community-examples)**, under the **`configuration-as-code/`** folder — alongside dashboards, notebooks, apps, agents, and more.
 
 **What this means for you**
 - 👉 Find the latest samples here: **[configuration-as-code/](https://github.com/Dynatrace/community-examples-and-solutions/tree/main/configuration-as-code)**
